@@ -48,16 +48,18 @@ body {
   left: .2rem;
 }
 
-.robot-head-right{
+.robot-head-right {
   position: absolute;
   top: -2.4rem;
   right: 2.2rem;
 }
+
 .robot-head-left {
   position: absolute;
   top: -2.4rem;
   left: 2.2rem;
 }
+
 .robot:hover > .robot-brain {
   top: -1rem;
   right: 8.5rem;
